@@ -1,0 +1,24 @@
+body {
+    font-size: 15pt;
+    
+    background-color: #8D8D8D;
+    
+    
+    
+}
+
+
+h1{
+  text-align: center;
+  color:#F1002C;
+}
+p{
+  color:#000000;
+}
+
+#tile{
+  background-color: #AED7ED;
+  border: solid 1px #000000;
+      border-radius: 30px; 
+
+}
